@@ -1,0 +1,8 @@
+# 内容：Inside
+# 数量：6条
+DOMAIN,127.0.0.1
+DOMAIN-KEYWORD,qq.com
+DOMAIN-KEYWORD,weixin
+DOMAIN-KEYWORD,wechat
+DOMAIN-KEYWORD,xiumi
+IP-CIDR,127.0.0.1/32,no-resolve
